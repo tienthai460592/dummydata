@@ -1,10 +1,10 @@
 {
   "users": [
-    { "name": "John Doe", "title": "Post 1" },
-    { "name": "John Doe", "title": "Post 2" },
-    { "name": "John Doe", "title": "Post 3" }
+    { "id": 1, "name": "John", "surname": "Doe", "infix": "a","password":"12345" },
+    { "id": 2, "name": "Mac", "surname": "N'Cheese", "infix": "b","password":"12345" },
+    { "id": 3, "name": "Dumb", "surname": "Man", "infix": "c", "password":"12345" }
   ],
-  "profile": {
+  "events": {
     "name": "typicode"
   }
 }
