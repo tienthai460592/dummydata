@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "name": "John Doe", "title": "Post 1" },
+    { "name": "John Doe", "title": "Post 2" },
+    { "name": "John Doe", "title": "Post 3" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
