@@ -4,7 +4,10 @@
     { "id": 2, "name": "Mac", "surname": "N'Cheese", "infix": "b","password":"12345" },
     { "id": 3, "name": "Dumb", "surname": "Man", "infix": "c", "password":"12345" }
   ],
-  "events": {
-    "name": "typicode"
-  }
+  "events": [
+    {"id":1, "name": "Event 1", "information": "some useful text here"},
+    {"id":2, "name": "Event 2", "information": "some useful text here"},
+    {"id":3, "name": "Event 3", "information": "some useful text here"},
+    {"id":4, "name": "Event 4", "information": "some useful text here"}
+  ]
 }
