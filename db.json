@@ -1,6 +1,14 @@
-{ 
-    "messages": [
-    { "isEncrypted": "true", "type": "John", "lat": 33.222, "lng": 123.2,"timestamp":"2017-07-04*13:23:55" },
-    { "isEncrypted": "true", "type": "Mac", "lat": 12.321, "lng": 12.213,"timestamp":"2017-07-04*13:23:55" }
-  ]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
